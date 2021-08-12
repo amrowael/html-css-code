@@ -1,0 +1,111 @@
+body{
+    background-color: black;
+}
+
+header{
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+p{
+    font-size: large;
+}
+
+
+#banner{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#bannerImg{
+    float: left;
+    user-select: none;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+#bannerArticle{
+    font-family: sans-serif;
+    color: white;
+    margin-left: 50px;
+    padding-top: 50px;
+    width: 510px;
+    float: left;
+}
+
+#section1{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    margin-top: 500px;
+    margin-bottom: 30px;
+}
+
+#sectionImg{
+    padding-left: 300px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+    width: 600px;
+    height: 360px;
+    z-index: 0;
+    user-select: none;
+}
+
+#sectionArticle1{
+    font-family: sans-serif;
+    color: white;
+    padding-bottom: 50px;
+    padding-right: 300px;
+    width: 600px;
+
+}
+
+#section2{
+    width: 100%;
+    position: absolute;
+    background-color: rgb(252, 176, 36);
+    left: 0;
+    margin-top: 1450px;
+}
+
+#sectionArticle2{
+    font-family: sans-serif;
+    color: white;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    width: 95%;
+}
+
+#button1{
+    margin-top: 450px;
+    margin-left: 155px;
+    float: left;
+    z-index: 18;
+}
+
+#section3{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    margin-top: 1920px;
+    background-color: rgb(202, 27, 27);
+}
+
+#sectionImg2{
+    width: 477px;
+    padding-top: 50px;
+    padding-left: 50px;
+    float: left;
+    user-select: none;
+}
+
+#headerSection{
+    width: 400px;
+    color: white;
+    font-family: sans-serif;
+    float: left;
+    margin-left: 15px;;
+}
+
